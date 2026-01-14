@@ -92,7 +92,7 @@ int placeOrder(){
                     break;
                 case 4:
                     strcpy(cst[count].food, "Ugali");
-                    cst[count].price = 500.00;
+                    cst[count].price = 50.00;
                     break;
                 case 5:
                     strcpy(cst[count].food, "Smocha");
