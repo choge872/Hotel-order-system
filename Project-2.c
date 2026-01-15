@@ -4,6 +4,8 @@ SCS3/2606/2025   : ADAMS MUGAMBI
 SCS3/150466/2025 : ALLEN MUGOH
 SCS3/2481/2025   : CHOGE VICTOR KIBET
 SCS3/2484/2025   : WANJIRU MWANGI
+
+Link: https://github.com/choge872/Hotel-order-system
 */
 
 #include<stdio.h>
